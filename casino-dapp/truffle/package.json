@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.4.1"
+    "@openzeppelin/contracts": "^4.4.2"
   }
 }
